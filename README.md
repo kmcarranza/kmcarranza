@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmcarranza
 - 👀 I’m interested in coding and foreign languages
-- 🌱 I’m currently learning Django, Python, Javascript
+- 🌱 I’m currently learning Django, Python, Javascript, Typescript
 - 💞️ I’m looking to collaborate on new and exciting projects
 - 📫 How to reach me katina.carranza@gmail.com
 
